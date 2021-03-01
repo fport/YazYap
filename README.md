@@ -16,5 +16,6 @@ Ders 6 | **[Slayt-6](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap
 Ders 7 | **[Slayt-7](https://github.com/fport/YazYap/blob/master/Slaytlar/Yazyap%20Python%20Ders%207%20.pptx)** | **[Kodlar-7](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-7)**  
 Ders 8 | **[Slayt-8](https://github.com/fport/YazYap/blob/master/Slaytlar/Yazyap%20Python%20Ders%208.pptx)** | **[Kodlar-8](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-8)**  
 
-### Website : http://ceng.btu.edu.tr/yazyap/  
+### Website : http://ceng.btu.edu.tr/yazyap/
+### Instagram : https://instagram.com/yazyapatolyesi  
 ### Repl.it : https://repl.it/@FurkanPortakal
