@@ -15,9 +15,9 @@ Ders 5 | **[Slayt-5](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap
 Ders 6 | **[Slayt-6](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap%20Python%20Ders%206%20.pptx)** | **[Kodlar-6](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-6)**  
 Ders 7 | **[Slayt-7](https://github.com/fport/YazYap/blob/master/Slaytlar/Yazyap%20Python%20Ders%207%20.pptx)** | **[Kodlar-7](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-7)**  
 Ders 8 | **[Slayt-8](https://github.com/fport/YazYap/blob/master/Slaytlar/Yazyap%20Python%20Ders%208.pptx)** | **[Kodlar-8](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-8)**  
-Ders 9 | **[Slayt-9](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap%20Python%209%20(1).pptx)** | **[Kodlar-8](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-9)**  
-Ders 10 | **[Slayt-10](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap%20Python%2010%20(1).pptx)** | **[Kodlar-8](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-10)**  
-Ders 11 | **[Slayt-11](https://github.com/fport/YazYap/blob/master/Slaytlar/Yazyap%20Python%20Ders%2011.pptx)** | **[Kodlar-8](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-11)**  
+Ders 9 | **[Slayt-9](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap%20Python%209%20(1).pptx)** | **[Kodlar-9](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-9)**  
+Ders 10 | **[Slayt-10](https://github.com/fport/YazYap/blob/master/Slaytlar/YazYap%20Python%2010%20(1).pptx)** | **[Kodlar-10](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-10)**  
+Ders 11 | **[Slayt-11](https://github.com/fport/YazYap/blob/master/Slaytlar/Yazyap%20Python%20Ders%2011.pptx)** | **[Kodlar-11](https://github.com/fport/YazYap/tree/master/Kodlar/Ders-11)**  
 
 ### Website : http://ceng.btu.edu.tr/yazyap/
 ### Instagram : https://instagram.com/yazyapatolyesi  
